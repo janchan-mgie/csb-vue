@@ -1,0 +1,133 @@
+{
+  "lang": {
+    "hk": "繁",
+    "cn": "简",
+    "en": "Eng"
+  },
+  "top-menu": {
+    "home": "Home",
+    "about": "About",
+    "editor": "Editor"
+  },
+  "header": {
+    "title": "55178.love"
+  },
+  "message": {
+    "welcome": "Hello {name}, welcome to {site}",
+    "please-login": "請先登錄",
+    "close": "關閉"
+  },
+  "pull-refresh": {
+    "start": " ",
+    "ready": " ",
+    "loading": " ",
+    "error": " "
+  },
+  "side-menu": {
+    "section": {
+      "market": "市場動態",
+      "content": "內容",
+      "tools": "工具",
+      "more": "更多"
+    },
+    "links": {
+      "login": "登錄/註冊",
+      "market": "行情",
+      "finance-daily": "財經日曆",
+      "alert": "提醒",
+      "news": "新聞",
+      "analysis": "分析評論",
+      "bookmarks": "收藏列表",
+      "profit-daily": "利潤日記",
+      "converter": "貨幣換算器",
+      "order-history": "交易記錄",
+      "setting": "設置",
+      "privacy": "私隱及免責聲明",
+      "invite": "邀請好友",
+      "feedback": "發送返饋",
+      "video": "影片",
+      "exit": "離開"
+    }
+  },
+  "signin": {
+    "login": "登入",
+    "signup": "註冊",
+    "username": "用戶名稱",
+    "password": "密碼",
+    "email": "電郵"
+  },
+  "setting": {
+    "lang": "語言",
+    "version": "應用程式版本"
+  },
+  "footer-menu": {
+    "home": "Home",
+    "component": "Component",
+    "news": "新聞",
+    "video": "影片"
+  },
+  "order": {
+    "title": {
+      "order_id": "編號",
+      "product_id": "產品",
+      "product_name": "項目",
+      "type": "買升/跌",
+      "price": "當時價格",
+      "cutoff_price": "結算價格",
+      "bet": "投資",
+      "create_time": "下注時間",
+      "update_time": "結算時間",
+      "status": "結果",
+      "score": "收益",
+      "room_id": "直播編號"
+    },
+    "tab": {
+      "open": "當前投資",
+      "settle": "投資歷史"
+    },
+    "put": "買跌",
+    "call": "買升",
+    "win": "贏",
+    "lose": "輸",
+    "no-records": "暫無相關紀錄",
+    "time-out-range": "只限於 15 ~ 45 秒內下注",
+    "placed-order-in-minute": "每分鐘內只限下注 1 次",
+    "bet-empty": "下注金幣必須多於0",
+    "success": "成功下注",
+    "fail": "下注失敗",
+    "ref": "參考編號"
+  },
+  "news": {
+    "menu": {
+      "latest": "最新",
+      "stock": "股市",
+      "commodity": "期貨",
+      "forex": "外滙"
+    }
+  },
+  "video": {
+    "menu": {
+      "live": "直播",
+      "record": "錄像",
+      "bookmark": "喜愛"
+    },
+    "live": {
+      "online-member": "在線人數",
+      "hot": "熱門",
+      "type1": "類別 1"
+    },
+    "live-content": {
+      "balance": "剩餘金幣",
+      "bet": "下注",
+      "bet-total": "總數",
+      "bet-clear": "清除",
+      "put": "買跌",
+      "call": "買升",
+      "tabmenu": {
+        "chatroom": "聊天室",
+        "chart": "圖表",
+        "order-history": "交易記錄"
+      }
+    }
+  }
+}

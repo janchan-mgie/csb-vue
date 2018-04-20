@@ -1,0 +1,128 @@
+{
+  "lang": {
+    "hk": "繁",
+    "cn": "简",
+    "en": "Eng"
+  },
+  "top-menu": {
+    "home": "主頁",
+    "about": "關於",
+    "editor": "文字編輯器"
+  },
+  "header": {
+    "title": "55178.love"
+  },
+  "message": {
+    "welcome": "欢迎{name} {site}",
+    "please-login": "请先登录",
+    "close": "关闭"
+  },
+  "pull-refresh": {
+    "start": "",
+    "ready": "",
+    "loading": "",
+    "error": ""
+  },
+  "side-menu": {
+    "section": {
+      "market": "市场动态",
+      "content": "内容",
+      "tools": "工具",
+      "more": "更多"
+    },
+    "links": {
+      "login": "登录/注册",
+      "market": "行情",
+      "finance-daily": "财经日历",
+      "alert": "提醒",
+      "news": "新闻",
+      "analysis": "分析评论",
+      "bookmarks": "收藏列表",
+      "profit-daily": "利润日记",
+      "converter": "货币换算器",
+      "order-history": "交易记录",
+      "setting": "设置",
+      "privacy": "私隐及免责声明",
+      "invite": "邀请好友",
+      "feedback": "发送返馈",
+      "video": "影片",
+      "exit": "离开"
+    }
+  },
+  "signin": {
+    "login": "登入",
+    "signup": "注册",
+    "username": "用户名称",
+    "password": "密码",
+    "email": "电邮"
+  },
+  "setting": {
+    "lang": "语言",
+    "version": "应用程式版本"
+  },
+  "footer-menu": {
+    "home": "Home",
+    "component": "Component",
+    "news": "新闻",
+    "video": "影片"
+  },
+  "order": {
+    "title": {
+      "order_id": "编号",
+      "product_id": "产品",
+      "product_name": "项目",
+      "type": "买升/跌",
+      "price": "当时价格",
+      "cutoff_price": "结算价格",
+      "bet": "投资",
+      "create_time": "下注时间",
+      "update_time": "结算时间",
+      "status": "结果",
+      "score": "收益",
+      "room_id": "直播编号"
+    },
+    "tab": {
+      "open": "当前投资",
+      "settle": "投资历史"
+    },
+    "put": "买跌",
+    "call": "买升",
+    "win": "赢",
+    "lose": "输",
+    "no-records": "暂无相关纪录",
+    "time-out-range": "只限于 15~45 秒内下注",
+    "placed-order-in-minute": "每分钟内只限下注1次",
+    "bet-empty": "下注金币必須多于0",
+    "success": "成功下注",
+    "fail": "下注失败",
+    "ref": "参考编号"
+  },
+  "news": {
+    "menu": {
+      "latest": "最新",
+      "stock": "股市",
+      "commodity": "期货",
+      "forex": "外汇"
+    }
+  },
+  "video": {
+    "menu": {
+      "live": "直播",
+      "record": "录像",
+      "bookmark": "喜爱"
+    },
+    "live": {
+      "online-member": "在线人数",
+      "hot": "热门",
+      "type1": "类别 1"
+    },
+    "live-content": {
+      "balance": "剩余金币",
+      "bet": "下注",
+      "bet-total": "总数",
+      "bet-clear": "清除",
+      "put": "买跌",
+      "call": "买升"
+    }
+  }
+}
