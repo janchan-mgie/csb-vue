@@ -1,7 +1,7 @@
 <template>
   <div id="app">
   	<top-menu ref="topMenu"></top-menu>
-    <img width="15%" src="./assets/logo.png">
+    <img id="logo" src="./assets/edm_top.png">
 	  <router-view></router-view>
   </div>
 </template>
@@ -34,5 +34,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+#logo {
+  width: 50vw;
 }
 </style>
